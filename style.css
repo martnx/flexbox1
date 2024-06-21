@@ -37,10 +37,5 @@
     height: 300px;
     display: flex;
     justify-content: space-between;
-    align-items: stretch;
-}
-.social,
-.logo,
-.subscribe{
-    border: 1px solid #5995DA;
+    align-items: center;
 }
