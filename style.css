@@ -12,14 +12,14 @@
     justify-content: center;
 }
 .menu{
-    border: 1px solid #fff; /*For debugging*/
+
     width: 900px;
 
     display: flex;
     justify-content: space-between;
 }
 .links{
-    border: 2px solid #fff;
+
     display: flex;
     justify-content: flex-end;
 }
@@ -71,9 +71,9 @@
     height: 200px;
     flex: 1;
 }
-.footer-item.footer-one{
-    flex: 2;
-}
-.footer-item.footer-two{
-    flex: 2;
+.footer-item.footer-one,
+.footer-item.footer-three{
+    background-color: #5995DA;
+    flex:initial;
+    width: 150px;
 }
