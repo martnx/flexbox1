@@ -23,6 +23,9 @@
     display: flex;
     justify-content: flex-end;
 }
+.signup{
+    margin-left: auto;
+}
 .login{
     margin-left: 20px;
 }
@@ -66,7 +69,6 @@
     justify-content: space-between;
 }
 .footer-item{
-    border: 1px solid #000000;
     background-color: #D6E9FE;
     height: 200px;
     flex: 1;
